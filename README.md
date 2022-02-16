@@ -1,4 +1,4 @@
-## Online Ration Shop Booking System
+## Online Ration Slot Booking System
 # Project Description:
 Online Ration Slot Booking System that provides Ration cardholder easy way of booking a Slot online.
 This is a web based application that overcomes the issue of managing and booking Slot according to user’s choice or demands.
