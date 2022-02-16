@@ -6,10 +6,40 @@ Hence this project offers an effective solution where users can view various boo
 This system also allows users to cancel their booking anytime. 
 The application uses Angular as a front-end , SpringBoot & SQL database as the back-end
 # Technologies Used:
-1.JDK 16.0.2 2.oracle 11g 3.junit 4
+## Functional Requirement
+
+### Software Requirements
+ 
+OS : Windows
+
+Eclipse IDE : Version 2020-03 (4.15.0)Java : Version 1.8
+
+Spring Boot Framework : Version 2.6.3
+
+Angular cli : Version 11.0.7
+
+Node : Version 16.13.1
+
+Oracle : Version ojdbc5.
+
+### Hardware Requirements
+
+RAM : 4GB and Higher
+
+Processor : Intel i3 and above
+
+Hard Disk : 500GB: Minimum
+
 
 # Feature:
-Facebook Application App is providing some the features to the user such as 1.sign up to the application 2.sign in 3.view profile 4.view all profile 5.logout profile 6.delete profile 7.edit profile 8.time line 9.chat
+
+### Admin
+Dealer:ADD Dealer,Show Dealers,Update Dealer, Show Dealer Schedule,Delete Dealer.                
+Shop:ADD Shop,Show Shops,Update Shops, Assign Dealer to Shop,Delete Dealer to Shop,Delete Shop.
+### User
+My profile,BookSlot,Show slotBooking Details,Cancel slotBooking Details,Logout
+### Dealer
+My profile,Show Appoitments,Logout
 
 # TO DO LIST:
 some of the features which are going to update soon are 1.like option to like the profiles 2.dislike option 3.upload photo 4.updating this application to GUI by using HTML,CSS,JAVAsCRIPT AND SERVLETS
@@ -18,7 +48,17 @@ some of the features which are going to update soon are 1.like option to like th
 git clone https://github.com/Aravindviswak/onlineSlotBooking.git cd my-project
 
 # usage:
-After project come reside into your local system run the FacebookAppView.java, file you can able to use the App choose your option as the console direct and you good to use the app
+In the proposed system they will allow Ration card holder to be more flexible they can 
+register and can book by selecting the time slots and the system will confirm the booking 
+so everything is computerized an done very fast which will save time.
+
+• By this system customer can create a time slot at ration centres. 
+
+• Automatically creates a distribution slot at ration centres. 
+
+• Details will be provided at web 
+
+• Reduces time and risk
 
 # Contributors:
 Aravindachary Vadla
