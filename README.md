@@ -40,10 +40,6 @@ Shop:ADD Shop,Show Shops,Update Shops, Assign Dealer to Shop,Delete Dealer to Sh
 My profile,BookSlot,Show slotBooking Details,Cancel slotBooking Details,Logout
 ### Dealer
 My profile,Show Appoitments,Logout
-
-# TO DO LIST:
-some of the features which are going to update soon are 1.like option to like the profiles 2.dislike option 3.upload photo 4.updating this application to GUI by using HTML,CSS,JAVAsCRIPT AND SERVLETS
-
 # Getting Started:
 git clone https://github.com/Aravindviswak/onlineSlotBooking.git cd my-project
 
